@@ -31,6 +31,7 @@ Hádání: 1234
 ## Příklad hry:
 
 **Tajné číslo: 5678**
+
 Hádání 1: _1234_
 
 Odpověď: `0 Bulls, 0 Cows`
