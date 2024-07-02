@@ -30,8 +30,13 @@ Hádání: 1234
 
 **Tajné číslo: 5678**
 Hádání 1: _1234_
+
 Odpověď: `0 Bulls, 0 Cows`
+
 Hádání 2: _5671_
+
 Odpověď: `3 Bulls, 0 Cows`
+
 Hádání 3: _5678_
+
 Odpověď: `4 Bulls` (Hráč vyhrává)
