@@ -22,7 +22,9 @@ Po každém pokusu Hráče 2 Hráč 1 poskytne zpětnou vazbu v podobě počtu B
 ## Například:
 
 **Tajné číslo: 4271**
+
 Hádání: 1234
+
 - Odpověď: 1 Bull, 2 Cows (1 Bull za správně umístěnou číslici '2' a 2 Cows za číslice '1' a '4' na nesprávných pozicích)
 - Vítězství: Hra pokračuje, dokud Hráč 2 neuhodne celé tajné číslo (tj. nezíská odpověď se 4 Bulls, pokud je délka čísla 4).
 
