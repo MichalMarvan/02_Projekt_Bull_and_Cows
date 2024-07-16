@@ -133,7 +133,7 @@ def zadani_hodnoty() -> list:
     
     while True: 
         # zadání délky čísla uživatelem
-        delka_cisla = input("Jak dlouhé čílo chcete hádat? (Můžeš zadat hodnoty od 3 do 10): ")
+        delka_cisla = input("Jak dlouhé čílo chcete hádat? (Můžeš zadat hodnoty od 3 do 9): ")
         # list s hodnotami, které může zadaná délka obsahovat
         kontrola = hodnoty_pro_zadani()
         # for cyklus pro kontrolu zda je zadaná délka číslo a zároven je délka v listu délek (hodnoty pro zadání)
@@ -246,5 +246,5 @@ def hlavni_funkce():
     opakovani()
 
 if __name__ == "__main__":
-    privitani ()
+    privitani () 
     hlavni_funkce()
